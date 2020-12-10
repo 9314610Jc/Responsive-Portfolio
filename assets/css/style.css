@@ -1,0 +1,20 @@
+body{
+    background-image:url(https://s3.envato.com/files/221712863/Preview_image.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.pull-left img{
+    margin-right: 5px;
+}
+.col-md-8{
+    background-color: rgb(247, 247, 247);
+   
+}
+p{
+    line-height:150%;
+}
+form{
+    background-color:  rgb(247, 247, 247);
+}
